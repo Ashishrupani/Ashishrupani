@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false" />
 </p>
-## Hi there 👋
+<h1 align="center">Hi I'm Ashish Rupani👋</h1>
+
+<p>Student at the University of Texas at Arlington pursuing a Bachelor’s degree in Software Engineering 🎓</p>
 
 <!--
 **Ashishrupani/Ashishrupani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
