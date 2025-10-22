@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false" />
+</p>
 ## Hi there 👋
 
 <!--
