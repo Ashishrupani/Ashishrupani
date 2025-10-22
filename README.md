@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi I'm Ashish Rupani👋</h1>
 
-<p>Student at the University of Texas at Arlington pursuing a Bachelor’s degree in Software Engineering 🎓</p>
+<p align="center">Student at the University of Texas at Arlington pursuing a Bachelor’s degree in Software Engineering 🎓</p>
 
 <!--
 **Ashishrupani/Ashishrupani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
